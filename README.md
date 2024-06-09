@@ -1,10 +1,11 @@
 # submission
+## Change directory
 ```
 cd dashboard
 ```
 ## Setup environment
 ```
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install pandas matplotlib seaborn streamlit
 ```
 
 ## Run steamlit app
